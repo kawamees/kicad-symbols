@@ -408,4 +408,9 @@ K audio ssg 3ch
 F http://www.ym2149.com/ym2149.pdf
 $ENDCMP
 #
+$CMP AS3394E
+D µP CONTROLLABLE SYNTHESIZER VOICE
+F http://www.alfarzpp.lv/eng/sc/AS3394.pdf
+$ENDCMP
+#
 #End Doc Library
